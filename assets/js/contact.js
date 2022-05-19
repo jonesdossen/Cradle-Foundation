@@ -7,7 +7,12 @@ Theme Version:	1.0.0
 ***
 ***
 */
-
+function location1(){
+	location.replace('about.html')
+}
+function location2(){
+	location.replace('admission.html')
+}
 (function($) {
 	
 		'use strict';
